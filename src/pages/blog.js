@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const Blog = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Blogs" />
     <h1>Blogs</h1>
     <p>Welcome to the Blog</p>
   </Layout>

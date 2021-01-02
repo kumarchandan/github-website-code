@@ -19,7 +19,7 @@ const IndexPage = () => (
           <a href="https://github.com/kumarchandan" target="_blank" rel="noopener noreferrer">
             <GitHub size={20} color="grey" fill="grey" />
           </a>
-          <a href="https://www.linkedin.com/in/chandan-kumar-b6b55757/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/enchandan/" target="_blank" rel="noopener noreferrer">
             <Linkedin size={20} color="grey" fill="grey" />
           </a>
           <a href="mailto:chandankumar99341@gmail.com?Subject=Hey%20Chandan" target="_top">
