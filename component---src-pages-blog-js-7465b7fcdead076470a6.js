@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{vx99:function(e,t,l){"use strict";l.r(t);var n=l("q1tI"),a=l.n(n),o=(l("Wbzz"),l("Bl7J")),c=l("vrFN");t.default=function(){return a.a.createElement(o.a,null,a.a.createElement(c.a,{title:"Blogs"}),a.a.createElement("h1",null,"Blogs"),a.a.createElement("p",null,"Welcome to the Blog"))}}}]);
+//# sourceMappingURL=component---src-pages-blog-js-7465b7fcdead076470a6.js.map
