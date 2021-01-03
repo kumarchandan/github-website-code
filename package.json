@@ -1,19 +1,26 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Website",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Chandan Kumar's website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Chandan Kumar <chandankumar99341@gmail.com>",
   "dependencies": {
-    "antd": "^3.26.8",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-manifest": "^2.2.39",
     "gatsby-plugin-offline": "^3.0.32",
     "gatsby-plugin-react-helmet": "^3.1.21",
     "gatsby-plugin-sharp": "^2.4.3",
+    "gatsby-remark-prismjs": "^3.10.0",
     "gatsby-source-filesystem": "^2.1.46",
+    "gatsby-theme-blog": "^2.0.2",
+    "gatsby-transformer-remark": "^2.13.1",
     "gatsby-transformer-sharp": "^2.3.13",
+    "katex": "^0.12.0",
+    "prismjs": "^1.23.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -24,7 +31,8 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "Blog",
+    "Artificial Intelligence"
   ],
   "license": "MIT",
   "scripts": {
@@ -35,12 +43,5 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
