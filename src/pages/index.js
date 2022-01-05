@@ -51,7 +51,7 @@ const IndexPage = () => {
         <div>
           <h1>Hey! I'm <b>Chandan Kumar</b>.</h1>
           <h1>I'm a <b>Full Stack</b></h1>
-          <h1>Web Developer from India</h1>
+          <h1>Developer from India</h1>
           <div style={{ display: 'flex', justifyContent: 'space-between', width: "70px" }}>
             <a href="https://github.com/kumarchandan" target="_blank" rel="noopener noreferrer">
               <GitHub size={20} color="grey" fill="grey" />
